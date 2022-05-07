@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160500313160",
+    "project_id": "airplane-5a0a8",
+    "storage_bucket": "airplane-5a0a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160500313160:android:1f1c96653d52d6b3e1bc7d",
+        "android_client_info": {
+          "package_name": "com.dandy.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160500313160-m6mg39m7lgrqeu1gp2pn31dm0np0953b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkQFNeBxMAWByrtZWnKxmGTwZqSuxLoOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160500313160-m6mg39m7lgrqeu1gp2pn31dm0np0953b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
